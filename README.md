@@ -27,4 +27,4 @@ The maximum back and forward streak (see third paragraph of How to use it) is no
  - I apriciate any feedback you are willing to give me;
  - This project is made for a final thesis;
  - Feel free to use this code, any credits would be apriciated;
- - You can see the demo [here](www.ai.jovanoskibojan.com)
+ - You can see the demo [here](http://www.ai.jovanoskibojan.com)
